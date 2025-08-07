@@ -1,5 +1,4 @@
-# verifai-news-detection
- HEAD
+
 # Verifai - AI-Powered Content Verification Platform 🔍
 
 <div align="center">
@@ -179,5 +178,9 @@ We welcome contributions! Please follow these steps:
 
 <div align="center">
   <p>Built with ❤️ by House Stark</p>
+<<<<<<< HEAD
 </div>
 
+=======
+</div>
+>>>>>>> 45c0d33 (Initial commit)
